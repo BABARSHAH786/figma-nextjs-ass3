@@ -1,6 +1,5 @@
 import Link from "next/link";
 import Image from "next/image";
-import Group from "../../../public/Group.png";
 
 export default function Pricing() {
   return (

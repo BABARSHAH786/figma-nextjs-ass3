@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Navbar from '../app/components/Navbar';
 import Sectiontop from "./components/Sectiontop";
 import WorkManagement from "./components/Workmanagement";
